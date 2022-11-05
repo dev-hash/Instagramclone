@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "caption": "alien",
+      "image_url": "https://i.ibb.co/1s36gN4/1398416d.jpg"
+    },
+    {
+      "id": "5",
+      "caption": "tyyy",
+      "image_url": "https://i.ibb.co/3RMGcr5/8th-sem-recpt-2.png"
+    },
+    {
+      "id": "3",
+      "caption": "rop",
+      "image_url": "https://i.ibb.co/1s36gN4/1398416d.jpg"
+    },
+    {
+      "id": "4",
+      "caption": "chiku",
+      "image_url": "https://i.ibb.co/1s36gN4/1398416d.jpg"
+    },
+    {
+      "id": "6",
+      "caption": "me",
+      "image_url": "https://i.ibb.co/wNH7c8G/actor-symbol.jpg"
+    },
+    {
+      "id": "7",
+      "caption": "you",
+      "image_url": "https://i.ibb.co/N9Lq4Mf/bg.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
